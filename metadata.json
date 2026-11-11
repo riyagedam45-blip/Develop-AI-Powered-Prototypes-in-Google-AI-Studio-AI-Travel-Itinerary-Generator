@@ -1,0 +1,6 @@
+{
+  "name": "Wander3 — Curated 3-Day City Travel Itineraries",
+  "description": "Clean, structured 3-day travel itineraries with hour-by-hour schedules, neighborhood walks, and insider tips for the world's most iconic cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
